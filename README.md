@@ -14,7 +14,7 @@ These Web API calls shown above will be used once all settings are discovered.
 Viewing callingcard.txt points us to the history. PowerShell automatically maintains a history of each session. 
 ![image](https://user-images.githubusercontent.com/54376366/70858330-5a3fbc00-1ebd-11ea-9acb-475440b49257.png)
 
-Get-History \will reveal our first setting and the next clue.
+Get-History will reveal our first setting and the next clue.
 ![image](https://user-images.githubusercontent.com/54376366/70858379-5eb8a480-1ebe-11ea-9501-a8e2b9acf9ab.png)
 
 **Setting #1**: Angle = 65.5

@@ -5,7 +5,7 @@
 
 We are greeted with a message of the day, focusing on `/home/callingcard.txt` and `(Invoke-WebRequest -Uri http://localhost:1225/).RawContent`.
 
-Invoking localhost displays 7 possible API calls to the laser. 4 calls are to modify the following setting: angle, temperature, gas, and refraction.
+Invoking localhost displays 7 possible API calls to the laser. 4 calls are to modify the following settings: angle, temperature, gas, and refraction.
 
 ![image](https://user-images.githubusercontent.com/54376366/70858279-7727bf80-1ebc-11ea-8ea2-f0ba040596fb.png)
 

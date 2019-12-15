@@ -121,7 +121,7 @@ Invoke-RestMethod http://localhost:1225/api/off -Method Get
 Invoke-RestMethod http://localhost:1225/api/on -Method Get
 ```
 
-Now to apply the settings and **complete** this CTf.
+Now to apply the settings and **complete** this CTF.
 ```sh
 irm http://localhost:1225/api/angle?val=65.5 -Method Get
 irm http://localhost:1225/api/temperature?val=-33.5 -Method Get

@@ -19,8 +19,10 @@ Get-History will reveal our first setting and the next clue.
 
 **Setting #1**: Angle = 65.5
 
-That last command in history needs to be expanded: `(history).CommandLine[8]`.
-
+That last command in history needs to be expanded.
+```sh
+(history).CommandLine[8]
+```
 "I have many name=value variables that I share to applications system wide. At a command I will reveal my secrets once you Get my Child Items."
 
 

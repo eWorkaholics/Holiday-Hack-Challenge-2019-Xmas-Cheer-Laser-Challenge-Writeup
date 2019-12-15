@@ -26,7 +26,7 @@ That last command in history needs to be expanded.
 "I have many name=value variables that I share to applications system wide. At a command I will reveal my secrets once you Get my Child Items."
 
 
-"Applications system wide" is a lead to the environment variables. Tab completion on $env: shows the `$env:riddle` variable.
+"System wide" + "name=value" is a lead to the environment variables. Tab completion on $env: shows the `$env:riddle` variable.
 
 ![image](https://user-images.githubusercontent.com/54376366/70858555-3aaa9280-1ec1-11ea-8ed1-bef2b2675f53.png)
 
